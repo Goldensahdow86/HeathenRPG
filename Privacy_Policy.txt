@@ -24,6 +24,7 @@ Last Updated: July 14, 2025
 - Bot interaction timestamps
 - Error logs and debugging information
 - Performance metrics
+- Command logs (user IDs, usernames, command details) for moderation and debugging
 
 2. HOW WE USE YOUR INFORMATION
 
@@ -44,6 +45,7 @@ Last Updated: July 14, 2025
 - To prevent abuse and enforce Terms of Service
 - To comply with legal obligations
 - To protect the integrity of the game
+- To monitor and moderate command usage for security and abuse prevention
 
 3. DATA STORAGE AND SECURITY
 

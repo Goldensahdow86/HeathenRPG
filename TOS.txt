@@ -1,6 +1,6 @@
 TERMS OF SERVICE - HEATHENS RPG BOT
 
-Last Updated: July 14, 2025 
+Last Updated: July 14, 2025
 
 1. ACCEPTANCE OF TERMS
 By using the Heathens RPG Bot ("the Bot"), you agree to be bound by these Terms of Service ("TOS"). If you do not agree to these terms, please do not use the Bot.
@@ -41,19 +41,26 @@ THE CASINO AND GAMBLING FEATURES IN THIS BOT ARE FOR ENTERTAINMENT PURPOSES ONLY
 7. LIMITATION OF LIABILITY
 IN NO EVENT SHALL THE BOT DEVELOPERS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATING TO YOUR USE OF THE BOT.
 
-8. TERMINATION
+8. DATA SECURITY AND LOGGING
+- The Bot logs command usage, including Discord user IDs, usernames, and command details, to a designated admin channel for moderation and debugging purposes.
+- Only necessary data is collected and stored for game functionality and moderation.
+- Users can request deletion of their data by contacting the developer at @goldenshadow86 on Discord.
+- The Bot does not sell, trade, or share user data with third parties for marketing purposes.
+- For more details, see the Privacy Policy.
+
+9. TERMINATION
 The developers reserve the right to:
 - Terminate or suspend access to the Bot at any time
 - Modify or discontinue the Bot with or without notice
 - Ban users who violate these terms
 
-9. CHANGES TO TERMS
+10. CHANGES TO TERMS
 These terms may be updated at any time. Continued use of the Bot after changes constitutes acceptance of the new terms.
 
-10. GOVERNING LAW
+11. GOVERNING LAW
 These terms shall be governed by and construed in accordance with applicable laws.
 
-11. CONTACT
+12. CONTACT
 For questions about these terms, contact the Bot developers at @goldenshadow86 on Discord.
 
 By using the Heathens RPG Bot, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service. 

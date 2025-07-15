@@ -1,0 +1,21 @@
+[7/14/2025] Economy Overhaul
+
+- Slowed overall progression: reduced coin and exp rewards for all actions, quests, enemies, and events.
+- Increased all shop buy/sell prices by 50-100%.
+- Increased pet prices and increments by 50%.
+- Increased travel costs and multipliers by 50%.
+- Lowered casino payouts, made jackpots rarer and less lucrative.
+- Lowered daily and weekly rewards.
+- Lowered quest rewards for all difficulties.
+- Lowered enemy and event coin/exp rewards by 40%.
+- Updated all relevant config values for a more challenging, grind-focused RPG experience.
+
+[7/14/2025] - Revive Confirmation Prompt
+- Added a mechanic where if your HP drops to 0, you are incapacitated and cannot perform any actions except /eat and /revive.
+- Added /revive and !revive commands: pay coins to restore your HP to max if incapacitated.
+- Revive cost now scales with your max health (2x max health, minimum 100 coins).
+- All action commands now check for incapacitation and block actions if HP is 0.
+- The /revive command now prompts the user for confirmation before reviving.
+- Shows the amount healed and the revive cost.
+- Provides Accept/Decline buttons; only heals and charges if the user accepts.
+- Improves user experience and prevents accidental coin loss.

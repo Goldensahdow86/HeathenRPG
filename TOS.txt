@@ -1,0 +1,59 @@
+TERMS OF SERVICE - HEATHENS RPG BOT
+
+Last Updated: July 9, 2025
+
+1. ACCEPTANCE OF TERMS
+By using the Heathens RPG Bot ("the Bot"), you agree to be bound by these Terms of Service ("TOS"). If you do not agree to these terms, please do not use the Bot.
+
+2. DESCRIPTION OF SERVICE
+The Bot is a Discord-based role-playing game that provides:
+- Character creation and progression
+- In-game activities (hunting, fishing, mining, etc.)
+- Virtual economy and trading
+- Quest and adventure systems
+- Casino and gambling games
+- Social interaction features
+
+3. USER CONDUCT
+You agree not to:
+- Use the Bot for any illegal or unauthorized purpose
+- Attempt to exploit bugs or glitches in the Bot
+- Use automated scripts or bots to interact with the Bot
+- Harass, abuse, or harm other users
+- Attempt to gain unauthorized access to the Bot's systems
+- Share or distribute the Bot's code without permission
+- Use the Bot to spam or send unwanted messages
+- Use the Bot's gambling features if you are under 18 years of age
+- Use the Bot's gambling features if you have a gambling addiction or are in recovery
+- Use the Bot's gambling features with real money or attempt to convert virtual currency to real money
+
+4. INTELLECTUAL PROPERTY
+- The Bot and its content are owned by the Bot developers
+- All game mechanics, code, and design elements are protected by copyright
+- Users retain ownership of their created content within the game
+
+5. DISCLAIMER OF WARRANTIES
+THE BOT IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND. THE DEVELOPERS DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+6. GAMBLING DISCLAIMER
+THE CASINO AND GAMBLING FEATURES IN THIS BOT ARE FOR ENTERTAINMENT PURPOSES ONLY. ALL GAMES INVOLVE RISK AND THE HOUSE ALWAYS HAS AN ADVANTAGE. VIRTUAL CURRENCY HAS NO REAL-WORLD VALUE AND CANNOT BE CONVERTED TO REAL MONEY. GAMBLING CAN BE ADDICTIVE - IF YOU OR SOMEONE YOU KNOW HAS A GAMBLING PROBLEM, PLEASE SEEK HELP FROM APPROPRIATE RESOURCES. THE DEVELOPERS ARE NOT RESPONSIBLE FOR ANY LOSSES INCURRED THROUGH THE USE OF GAMBLING FEATURES.
+
+7. LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE BOT DEVELOPERS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATING TO YOUR USE OF THE BOT.
+
+8. TERMINATION
+The developers reserve the right to:
+- Terminate or suspend access to the Bot at any time
+- Modify or discontinue the Bot with or without notice
+- Ban users who violate these terms
+
+9. CHANGES TO TERMS
+These terms may be updated at any time. Continued use of the Bot after changes constitutes acceptance of the new terms.
+
+10. GOVERNING LAW
+These terms shall be governed by and construed in accordance with applicable laws.
+
+11. CONTACT
+For questions about these terms, contact the Bot developers at @goldenshadow86 on Discord.
+
+By using the Heathens RPG Bot, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service. 

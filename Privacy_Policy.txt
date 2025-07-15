@@ -1,0 +1,129 @@
+PRIVACY POLICY - HEATHENS RPG BOT
+
+Last Updated: July 9, 2025
+
+1. INFORMATION WE COLLECT
+
+1.1 Discord User Information
+- Discord User ID
+- Discord Username and Display Name
+- Server/Guild ID where the Bot is used
+- Channel ID where commands are used
+
+1.2 Game Data
+- Character information (name, level, stats, experience)
+- Inventory items and quantities
+- Game progress and achievements
+- Cooldown timestamps
+- Transaction history (purchases, trades)
+- Quest progress and completion status
+- Gambling statistics and history (casino games played, bets placed, winnings/losses)
+
+1.3 Technical Data
+- Command usage patterns
+- Bot interaction timestamps
+- Error logs and debugging information
+- Performance metrics
+
+2. HOW WE USE YOUR INFORMATION
+
+2.1 Game Functionality
+- To provide and maintain the RPG game experience
+- To track character progression and game state
+- To manage the virtual economy and trading system
+- To enforce game rules and cooldowns
+- To provide casino and gambling entertainment features
+- To track gambling statistics for personal use only
+
+2.2 Service Improvement
+- To analyze usage patterns and improve the Bot
+- To identify and fix bugs or issues
+- To develop new features and content
+
+2.3 Security and Compliance
+- To prevent abuse and enforce Terms of Service
+- To comply with legal obligations
+- To protect the integrity of the game
+
+3. DATA STORAGE AND SECURITY
+
+3.1 Storage
+- Game data is stored in a local SQLite database
+- Data is stored on secure servers with appropriate safeguards
+- Regular backups are performed to prevent data loss
+
+3.2 Security Measures
+- Access to data is restricted to authorized personnel only
+- Database connections are secured and encrypted
+- Regular security audits are conducted
+
+4. DATA SHARING AND DISCLOSURE
+
+4.1 We Do Not Sell Your Data
+- We do not sell, trade, or rent your personal information
+- We do not share your data with third parties for marketing purposes
+
+4.2 Limited Sharing
+We may share your information only in these circumstances:
+- With your explicit consent
+- To comply with legal requirements or court orders
+- To protect the rights and safety of users
+- To prevent fraud or abuse
+
+5. YOUR RIGHTS AND CHOICES
+
+5.1 Access and Control
+- You can view your game data through Bot commands
+- You can request deletion of your data by contacting the developers
+- You can stop using the Bot at any time
+
+5.2 Data Retention
+- Game data is retained as long as you use the Bot
+- Data may be retained for a reasonable period after account deletion for backup purposes
+- Inactive accounts may be cleaned up after extended periods
+
+6. COOKIES AND TRACKING
+
+6.1 Discord Integration
+- The Bot operates within Discord's platform
+- Discord's own privacy policy applies to Discord-specific data
+- We do not use cookies or external tracking technologies
+
+7. CHILDREN'S PRIVACY
+
+7.1 Age Requirements
+- The Bot is intended for users 13 years and older
+- Casino and gambling features are restricted to users 18 years and older
+- We do not knowingly collect data from children under 13
+- If we become aware of data from children under 13, we will delete it
+- Users under 18 should not access gambling features
+
+8. INTERNATIONAL DATA TRANSFERS
+
+8.1 Data Location
+- Data is stored in accordance with Discord's data handling practices
+- We comply with applicable data protection laws
+
+9. CHANGES TO THIS POLICY
+
+9.1 Updates
+- This policy may be updated periodically
+- Users will be notified of significant changes
+- Continued use of the Bot after changes constitutes acceptance
+
+10. CONTACT INFORMATION
+
+10.1 Questions and Concerns
+For questions about this Privacy Policy or data practices:
+- Contact the Bot developers at @goldenshadow86 on Discord
+- Include "Privacy Policy" in your message subject
+
+11. COMPLIANCE
+
+11.1 Legal Framework
+This policy is designed to comply with:
+- General Data Protection Regulation (GDPR)
+- California Consumer Privacy Act (CCPA)
+- Other applicable privacy laws
+
+By using the Heathens RPG Bot, you acknowledge that you have read and understood this Privacy Policy and consent to the collection and use of your information as described herein. 
